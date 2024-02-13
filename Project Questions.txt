@@ -1,0 +1,102 @@
+1. What is the role in your project ?
+
+-  In our project my role was to develop and implement the code components, ensuring that there will be no execution failure and not effecting the other features of the website which results for development of awsome interactive website.
+
+
+2. What motivated you to take this as project ? / Why did you chose this project  ?
+
+-  I took this project because i am passionate about tourism and i am very much interested in developing a website that is more informative and interacive. And also i have examined some other tourism websites and those websites are not providing a
+specific structure and inbetween many ads are being poped up which may cause inconvinence for users. so this is why i have taken this as a project.
+
+
+3. What is the role of you in extra curricular activities ?
+
+-  As a student i have participated in coding contests and sports. Also i am a member of a coding contest club of our department. i as a club member used to create awarness about the importance of coding and also conducted contests in our college.
+
+
+4. Technologies used in the project ?
+
+-  Technologies used in the project are Php, javascript, html, css, and mysql. Mostly for designing the components on the webpage we have used html. And for making the website to look awsome we used css. And for making the website interactive we used javascript. For implementing sessions and database connectivity we used php. For storage of the received information mysql database is used.
+
+
+5. Why do you want to join TCS ?
+
+-  I chose to join TCS because it is a renowned company with global presence, offering excellent oppurtunities for professional growth and development.The company's work culture and collaborative environment helps for my professional growth. And also i am excited to contribute my skills and learn from professionals in TCS.
+
+
+6. Is there any question u want to ask about company?
+
+-  Yes sir, i have one. could you please share more about the company's work culture and some carrer oppurtunities for the growth of fresher ?
+
+
+7. How would you deal with consequences when project was not done on time?
+
+-  As a team leader i will take the responsibility and i will not blame other teammates on what had happened.I will communicate with my teammates about the situation and problems to be resolved.And we will develop a plan to keep the work on track.we will learn from the mistakes by anylizing that where we had got stuck and wasted most of our time.
+
+
+8. what is your high and least favourite subject among your academics?
+
+-  My favourite subject is Computer Networks sir.Because i enjoyed learning on how the information is being transfered along the network and being presented before our eyes.I am amazed that some algorithms are used for data security, and some are used for error checking , and as well as for increasing the data transfer speed.I believe that computer networks play a crucial role in protecting our data and privacy.
+And my least favourite subject is Automata Theory & Formal Languages.I find it to be a very challenging subject.I felt difficult in learning some of the concepts and Even though i worked on them some of them are not clear for me.
+
+
+9. Have you dealed with any Security related tools on projects?
+
+-  Sir we havent used any  security related tool, but we have incorporated some javascript code which is help full for authentication. At the time of login the user will see a card containing whatsapp symbol, after clicking  on that  a QR code will be displayed.By scanning that code the user will be redirected to whatsapp application.There the user will see a message from the bot named OTPless.if the user clicks on the approve button he will get signed in.So in this way we have implemented security in our project.
+
+
+10. How will you resolve the issues during the project development ?
+
+-  If the issues are arising during the project development,Firstly i will identify the issue and analyze due to which wrong actions the issue had araised.After that i will make a conversation with the teammates and come up with solution for resolving the issue.Once the solution has been developed. I work with the team to implement it in a timely and efficient manner.Once the implementation is done we will ensure that it has resolved the issue and not introduce any new problems.
+
+
+11. Is there are any interpersonal issues you faced during the project development ?
+
+-  Yes, I have faced interpersonal issues during project development.At the time of designing new webpages for our project, i have assigned some database related work to one of my teammate.I thought that he will complete the work in time,but he havent completed that.I have sent him some video references for fixing the errors.Even though i helped him he was unable to complete the work.so i had taken the whole work from him and completed that.
+
+
+12.  What type of work environment you  want and what type of work you prefer to do ?
+
+-  I prefer to work in a collaborative environment where I can  collaborate with others and learn from them. I also like to work on challenging projects that allow me to use my skills and upskill myself to make a difference. I am interested in the work that involves problem-solving, creativity, and innovation.
+
+
+13. What you do when there is conflict between you and your colleague ?
+
+-  When there is conflict between me and my colleague, I first try to understand the root cause of the conflict. I do this by listening to my colleague words and asking clarifying questions. Once I have a better understanding of the situation, I try to find a solution that is acceptable for me and as well as my colleague. If we are unable to resolve the conflict on our own, I move the issue to our other teammate or to my friends.And finally we will solve the conflict.
+
+
+14. What you do when you are unable to complete the task within the assigned time?
+
+-  If I am unable to complete a task within the assigned time.I will analyze myself that what are the reasons for not completing the work.Once i have understood the situation i will develop a plan to keep the work on track.And also i will work on the mistakes for not repeating them in future.
+
+15. What is key learning from this project?
+
+-  We have learned some usefull technologies like DOMlibrary which is usefull for manipulating the data on the documents.we have used this technology for developing a pdf document which contains the total bill amount.And also learned PHPmailer technology in developing a working email feature for the website.These are the key learnings which we have learned from the project.
+
+
+16. design phase of your project ?
+
+-  The design phases of our project are 1. Getting user requirements, which means what the user is expecting from the website. 2. designing an ideal structure of the webpages, which means how many webpages should be included and what are the other features should be incorporated in the website. 3. Implementation of the code for developing the website which meet the requirements. 4. Finally testing the interactiveness of the website.These are the phases of our project .
+
+
+17. what are the additional courses that you have done?
+
+- Sir i have undergone through Devops course, in which i have learned some devops tools like Git, Ansible, Terraform , Docker, Jenkins.Using these tools i have done a project hosting a portfolio website.I have created this website using amazon S3 bucket instance.Also i have basic knowledge about amazon cloud console.
+
+
+18. Acid properties in sql ?
+
+-  The ACID properties in SQL are a set of four properties that ensure the reliability and consistency of data transactions.
+ACID stands for Atomicity, Consistency, Isolation, Durability.
+
+
+19. When different ideas are present by your team mates which will you choose for the further process ?
+
+-  When different ideas are present by my team members, I would first take  time to listen to all of the ideas and i will try to understand them. I would then evaluate the ideas based on a number of factors, such as the feasibility of the idea that will impact the overall workflow and what ideas are reaching the teams goal.After evaluating i will discuss with my teammates for finalizing the best one.
+
+
+20. What are your strengths and weakness ?
+
+-  I think my strength is Time management.Because when there are multiple works to be done, i will do them in a timely manner.During my 6th semester i have so many works like attending devops trainging, completing project related work like that.so i have managed my time for completing all the works.
+
+ public speaking makes me nervous it is my weakness.To overcome this i have participated in presentations and group discussions conducted by our TP cell.
